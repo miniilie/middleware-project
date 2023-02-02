@@ -11,6 +11,6 @@
  if [ $? -eq 0 ];
   then 
 
-echo "docker version is here!"
+echo "docker version is here man!"
 	  docker-compose --version
  fi
