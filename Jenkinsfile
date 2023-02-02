@@ -9,6 +9,12 @@ pipeline {
             
             }
         }
+        stage("create zip file"){
+            steps{
+               echo "here we are "
+            
+            }
+        }
         
     }
 }
