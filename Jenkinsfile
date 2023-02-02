@@ -11,14 +11,6 @@ pipeline {
         }
         
     }
-    stages{
-        stage("test"){
-            steps {
-                echo "hehehe we are here "
-            }
-            
-        }
-    }
         
     
 }
